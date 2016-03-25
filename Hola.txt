@@ -1,0 +1,5 @@
+qwertyuiopasdfghjklzxcvbnmnbvcxzlkjhgfdsapoiuytrewq
+
+
+
+$: git config --system http.sslcainfo /mingw64/ssl/certs/cs-bundle.crt
