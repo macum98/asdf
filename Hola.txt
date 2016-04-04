@@ -4,3 +4,6 @@ qwertyuiopasdfghjklzxcvbnmnbvcxzlkjhgfdsapoiuytrewq
 
 $: git config --system http.sslcainfo 
    /mingw64/ssl/certs/cs-bundle.crt
+
+I like marcus i hope he likes me too :):):)
+<3
